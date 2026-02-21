@@ -11,6 +11,4 @@ PRODUCT_PACKAGES += \
     libcamera_algoup_jni.xiaomi \
     libcamera_mianode_jni.xiaomi \
     libmicampostproc_client \
-    vendor.xiaomi.hardware.campostproc@1.0 \
-    libMiStereoFactoryCalibAnalyzeBin_qual \
-    libmiStereoCalibLib_qual
+    vendor.xiaomi.hardware.campostproc@1.0
